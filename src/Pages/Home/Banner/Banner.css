@@ -1,0 +1,29 @@
+.banner-img{
+    background-image: url(https://imgcy.trivago.com/c_lfill,f_auto,g_faces,q_auto:good,w_3211/mag/2021/12/03113043/adventure-trips-usa.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+
+.banner-img img{
+    width: 100%;
+    height: auto;
+}
+
+.banner-img h1{
+    padding-top: 200px;
+    color:cornsilk;
+    font-size: 70px;
+}
+
+.banner-img p{
+    color:lightcyan;
+    font-size: 30px;
+}
+/* .search-box{
+    background-color: aquamarine;
+    border: none;
+    margin: 0 auto
+} */

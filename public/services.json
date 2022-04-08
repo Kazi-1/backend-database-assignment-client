@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Embrace the great outdoors",
+        "price": "300",
+        "description": "Spend some quality time with Mother Nature for a (literal) breath of fresh air.",
+        "img": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_300,q_auto,w_300/mag/2021/05/06101040/adobestock-248604854-mgz2596.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Romantic Getaways",
+        "price": "100",
+        "description": "Reconnect with your better half on a loved up vacation for two.",
+        "img": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_300,q_auto,w_300/mag/2020/06/21184049/taxonomy-midwest-priscilla-du-preez-105714-unsplash-copy.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Find Your Next Adventure with the Kids",
+        "price": "150",
+        "description": "Enjoy some fun in the sun (or the snow) with your little ones.",
+        "img": "https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,f_auto,h_300,q_auto,w_300/mag/2020/04/01073802/fotolia-210924338-subscription-monthly-xxl-mgz2596.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Tour magazine",
+        "price": "180",
+        "description": "Check out our latest articles and start planning your dream trip.",
+        "img": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,f_auto,h_258,q_auto,w_258/categoryimages/17/39/17399_v12.jpeg"
+    }
+]

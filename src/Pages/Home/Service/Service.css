@@ -1,0 +1,12 @@
+.service{
+    border-radius:20px ;
+    border: 2px solid gray;
+    height: 650px;
+}
+ 
+#services img{
+    width:90%;
+    height:65%;
+    padding-top: 25px;
+    border-radius: 5px;
+}

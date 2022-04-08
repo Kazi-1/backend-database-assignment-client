@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "American",
+        "description": "Order American dishes from your favorite restaurants in Your City with us",
+        "img": "https://images.deliveryhero.io/image/fd-dl/LH/dcsl-listing.jpg?width=400&height=292|https://images.deliveryhero.io/image/fd-dl/LH/dcsl-listing.jpg?width=800&height=584"
+    },
+    {
+        "id": 2,
+        "name": " Dessert ",
+        "description": "Order Dessert dishes from your favourite restaurants in Your City with us",
+        "img": "https://images.deliveryhero.io/image/fd-dl/LH/xsnp-listing.jpg?width=400&height=292|https://images.deliveryhero.io/image/fd-dl/LH/xsnp-listing.jpg?width=800&height=584"
+    },
+    {
+        "id": 3,
+        "name": " Indian  ",
+        "description": "Order Indian dishes from your favourite restaurants in Your City with us",
+        "img": "https://images.deliveryhero.io/image/fd-dl/LH/vmf8-listing.jpg?width=400&height=292|https://images.deliveryhero.io/image/fd-dl/LH/vmf8-listing.jpg?width=800&height=584"
+    },
+    {
+        "id": 4,
+        "name": " Italian ",
+        "description": "Order Italian dishes from your favourite restaurants in Your City with us",
+        "img": "https://images.deliveryhero.io/image/fd-dl/LH/tal9-listing.jpg?width=400&height=292|https://images.deliveryhero.io/image/fd-dl/LH/tal9-listing.jpg?width=800&height=584"
+    },
+    {
+        "id": 5,
+        "name": "Thai",
+        "description": "Order Thai dishes from your favourite restaurants in Your City with us",
+        "img": "https://images.deliveryhero.io/image/fd-dl/LH/lviv-listing.jpg?width=400&height=292|https://images.deliveryhero.io/image/fd-dl/LH/lviv-listing.jpg?width=800&height=584"
+    },
+    {
+        "id": 6,
+        "name": "Vegetarian",
+        "description": "Order vegetarian food online from your favorite restaurants in Your City with us",
+        "img": "https://images.deliveryhero.io/image/fd-dl/LH/qlrr-listing.jpg?width=400&height=292|https://images.deliveryhero.io/image/fd-dl/LH/qlrr-listing.jpg?width=800&height=584"
+    }
+]
